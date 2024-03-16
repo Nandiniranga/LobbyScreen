@@ -1,12 +1,11 @@
 {
-  "name": "trial2",
+  "name": "mern",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "vite"
+    "start": "vite"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
